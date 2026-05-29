@@ -1,0 +1,28 @@
+{
+  "name": "first-nodejs-server-asuarez18",
+  "version": "1.0.0",
+  "description": "**Objective:** Build and run your first Node.js HTTP server to gain hands-on experience with server-side development.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/first-nodejs-server-ASuarez18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/first-nodejs-server-ASuarez18/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/first-nodejs-server-ASuarez18#readme",
+  "dependencies": {
+    "@types/node": "^25.9.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.22.3"
+  }
+}
